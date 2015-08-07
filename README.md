@@ -16,4 +16,4 @@ Steps to reproduce:
 In the log file will be two exceptions:
 
 * One about not found error view.  This is the case then Bugsnag action filter activated.
-* One about original exception -- InvalidOperationException.
+* One about original exception -- InvalidOperationException.  This is the case then Bugsnag action filter disabled.
